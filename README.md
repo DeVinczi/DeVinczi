@@ -1,3 +1,3 @@
 I want to be a master in c++ ( ͡° ͜ʖ ͡°)
 
-Currently working with C#
+Currently working with .Net
