@@ -1,4 +1,6 @@
-<h3>Hello, World! I'm Dawid [DeVinczi] 🚀</h3>
+<h3>Eps2.024_hellofriend.mov</h3>
+
+<h1>I'm Dawid [DeVinczi] 🚀</h1>
 
 <p><strong>About Me</strong></p>
 <p>Welcome to my corner of the coding universe! I'm a passionate software developer with a knack for leveraging the power of C#, .NET, Blazor, and some Docker to build innovative solutions. With over a year of hands-on experience, I've dived into the realms of code, constantly learning and evolving.</p>
