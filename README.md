@@ -7,9 +7,9 @@
 
 <p><strong>What I Bring to the Table</strong></p>
 <ul>
-  <li><strong>Docker Dynamo:</strong> I thrive on Dockerizing applications, harnessing its containerization prowess to streamline deployment and scalability. Building robust, containerized solutions is my forte. My last project was preparing a containerized Chromium with WebApi.</li>
+  <li><strong>Docker:</strong> I thrive on Dockerizing applications, harnessing its containerization prowess to streamline deployment and scalability. Building robust, containerized solutions is my forte. My last project was preparing a containerized Chromium with WebApi.</li>
   <li><strong>Crafting with C#:</strong> My journey in software development revolves around C#. I take pride in creating clean, efficient, and scalable code, shaping applications that stand tall amidst challenges. In my daily work, I use design patterns and build whole sites from scratch.</li>
-  <li><strong>Blazor Brilliance:</strong> Blazor is my playground for crafting interactive, feature-rich web applications. I'm deeply entrenched in exploring its capabilities and pushing its boundaries.</li>
+  <li><strong>Blazor:</strong> Blazor is my playground for crafting interactive, feature-rich web applications. I'm deeply entrenched in exploring its capabilities and pushing its boundaries.</li>
 </ul>
 
 <p><strong>My Current Adventure: Blogging! [In progress]</strong></p>
