@@ -19,9 +19,8 @@ For example, this one: <a href="https://blog.aspiresys.pl/technology/understandi
 
 <p><strong>What Awaits in My Repositories</strong></p>
 <ul>
-  <li><strong>Docker Delights:</strong> Explore my Docker-centric projects, where I harness containerization to optimize applications for efficiency and scalability.</li>
   <li><strong>C# .NET Chronicles:</strong> Dive into my C# .NET repositories, where I've encapsulated my dedication to building robust, reliable, and scalable software solutions.</li>
-  <li><strong>Blazor Bazaar:</strong> Discover a trove of Blazor projects showcasing interactive web applications that fuse the power of C# with dynamic frontend experiences.</li>
+  <li><strong>Blazor Bazaar:</strong> Discover a piece of Blazor projects showcasing interactive web applications that fuse the power of C# with dynamic frontend experiences.</li>
 </ul>
 
 <p><strong>Let's Collaborate!</strong></p>
