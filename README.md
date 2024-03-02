@@ -29,5 +29,5 @@ For example, this one: <a href="https://blog.aspiresys.pl/technology/understandi
 <p><strong>Get in Touch</strong></p>
 <ul>
   <li><strong>LinkedIn:</strong> <a href="https://pl.linkedin.com/in/dawid-slysz-733813268">Dawid Slysz on LinkedIn</a></li>
-  <li><strong>Blog:</strong> <a href="https://thedevincziblog.pl">The DeVinczi Blog</a></li>
+  <li><strong>Blog:</strong> <a href="https://dawidslysz.net">The DeVinczi Blog</a></li>
 </ul>
